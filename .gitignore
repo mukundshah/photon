@@ -13,3 +13,5 @@ photon-docs/site
 output*.jpg
 output*.png
 .vscode
+node_modules
+cache
